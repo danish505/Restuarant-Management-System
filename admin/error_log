@@ -1,0 +1,316 @@
+[22-Nov-2018 11:03:31 America/New_York] PHP Notice:  Trying to get property of non-object in /home/ideanqna/demo.veubix.com/resturant/admin/includes/DB.php on line 183
+[22-Nov-2018 11:03:33 America/New_York] PHP Notice:  Trying to get property of non-object in /home/ideanqna/demo.veubix.com/resturant/admin/includes/DB.php on line 183
+[22-Nov-2018 11:03:35 America/New_York] PHP Notice:  Trying to get property of non-object in /home/ideanqna/demo.veubix.com/resturant/admin/includes/DB.php on line 183
+[22-Nov-2018 11:03:36 America/New_York] PHP Notice:  Trying to get property of non-object in /home/ideanqna/demo.veubix.com/resturant/admin/includes/DB.php on line 183
+[22-Nov-2018 11:03:37 America/New_York] PHP Notice:  Trying to get property of non-object in /home/ideanqna/demo.veubix.com/resturant/admin/includes/DB.php on line 183
+[22-Nov-2018 11:03:39 America/New_York] PHP Notice:  Trying to get property of non-object in /home/ideanqna/demo.veubix.com/resturant/admin/includes/DB.php on line 183
+[22-Nov-2018 11:03:41 America/New_York] PHP Notice:  Trying to get property of non-object in /home/ideanqna/demo.veubix.com/resturant/admin/includes/DB.php on line 183
+[22-Nov-2018 11:03:43 America/New_York] PHP Notice:  Trying to get property of non-object in /home/ideanqna/demo.veubix.com/resturant/admin/includes/DB.php on line 183
+[22-Nov-2018 11:03:52 America/New_York] PHP Notice:  Trying to get property of non-object in /home/ideanqna/demo.veubix.com/resturant/admin/includes/DB.php on line 183
+[22-Nov-2018 11:03:59 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 11:03:59 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 11:03:59 America/New_York] PHP Fatal error:  require(): Failed opening required 'includes/db.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 11:04:04 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 11:04:04 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 11:04:04 America/New_York] PHP Fatal error:  require(): Failed opening required 'includes/db.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 11:04:26 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 11:04:26 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 11:04:26 America/New_York] PHP Fatal error:  require(): Failed opening required 'includes/db.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 11:04:28 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 11:04:28 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 11:04:28 America/New_York] PHP Fatal error:  require(): Failed opening required 'includes/db.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 11:06:02 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 11:06:02 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 11:06:02 America/New_York] PHP Fatal error:  require(): Failed opening required 'includes/db.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 11:06:16 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 11:06:16 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 11:06:16 America/New_York] PHP Fatal error:  require(): Failed opening required 'includes/db.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 11:06:18 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 11:06:18 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 11:06:18 America/New_York] PHP Fatal error:  require(): Failed opening required 'includes/db.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 11:08:35 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 11:08:35 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 11:08:35 America/New_York] PHP Fatal error:  require(): Failed opening required 'includes/db.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 11:08:39 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 11:08:39 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 11:08:39 America/New_York] PHP Fatal error:  require(): Failed opening required 'includes/db.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 11:08:42 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 11:08:42 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 11:08:42 America/New_York] PHP Fatal error:  require(): Failed opening required 'includes/db.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 11:08:42 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 11:08:42 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 11:08:42 America/New_York] PHP Fatal error:  require(): Failed opening required 'includes/db.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 11:08:43 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 11:08:43 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 11:08:43 America/New_York] PHP Fatal error:  require(): Failed opening required 'includes/db.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 11:18:44 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 11:18:44 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 11:18:44 America/New_York] PHP Fatal error:  require(): Failed opening required 'includes/db.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 11:18:45 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 11:18:45 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 11:18:45 America/New_York] PHP Fatal error:  require(): Failed opening required 'includes/db.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 11:18:54 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 11:18:54 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 11:18:54 America/New_York] PHP Fatal error:  require(): Failed opening required 'includes/db.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 11:19:01 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 11:19:01 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 11:19:01 America/New_York] PHP Fatal error:  require(): Failed opening required 'includes/db.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 11:20:12 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 11:20:12 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 11:20:12 America/New_York] PHP Fatal error:  require(): Failed opening required 'includes/db.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 11:21:02 America/New_York] PHP Notice:  Trying to get property of non-object in /home/ideanqna/demo.veubix.com/resturant/admin/includes/DB.php on line 183
+[22-Nov-2018 11:21:06 America/New_York] PHP Notice:  Trying to get property of non-object in /home/ideanqna/demo.veubix.com/resturant/admin/includes/DB.php on line 183
+[22-Nov-2018 11:42:28 America/New_York] PHP Notice:  Trying to get property of non-object in /home/ideanqna/demo.veubix.com/resturant/admin/includes/DB.php on line 183
+[22-Nov-2018 11:42:42 America/New_York] PHP Notice:  Trying to get property of non-object in /home/ideanqna/demo.veubix.com/resturant/admin/includes/DB.php on line 183
+[22-Nov-2018 11:42:44 America/New_York] PHP Notice:  Trying to get property of non-object in /home/ideanqna/demo.veubix.com/resturant/admin/includes/DB.php on line 183
+[22-Nov-2018 11:43:51 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 11:43:51 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 11:43:51 America/New_York] PHP Fatal error:  require(): Failed opening required 'includes/db.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 11:44:20 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 11:44:20 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 11:44:20 America/New_York] PHP Fatal error:  require(): Failed opening required 'includes/db.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 11:45:16 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 11:45:16 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 11:45:16 America/New_York] PHP Fatal error:  require(): Failed opening required 'includes/db.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 11:47:03 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 11:47:03 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 11:47:03 America/New_York] PHP Fatal error:  require(): Failed opening required 'includes/db.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 11:49:31 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 11:49:31 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 11:49:31 America/New_York] PHP Fatal error:  require(): Failed opening required 'includes/db.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 12:02:05 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 12:02:05 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 12:02:05 America/New_York] PHP Fatal error:  require(): Failed opening required 'includes/db.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 12:03:13 America/New_York] PHP Notice:  Undefined index: price in /home/ideanqna/demo.veubix.com/resturant/admin/insert_item.php on line 5
+[22-Nov-2018 12:03:13 America/New_York] PHP Notice:  Undefined index: item in /home/ideanqna/demo.veubix.com/resturant/admin/insert_item.php on line 6
+[22-Nov-2018 12:03:13 America/New_York] PHP Notice:  Undefined index: image in /home/ideanqna/demo.veubix.com/resturant/admin/insert_item.php on line 9
+[22-Nov-2018 12:03:13 America/New_York] PHP Notice:  Undefined index: image in /home/ideanqna/demo.veubix.com/resturant/admin/insert_item.php on line 11
+[22-Nov-2018 12:03:13 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 12:03:13 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 12:03:13 America/New_York] PHP Fatal error:  require(): Failed opening required 'includes/db.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 12:03:28 America/New_York] PHP Notice:  Undefined index: price in /home/ideanqna/demo.veubix.com/resturant/admin/insert_item.php on line 5
+[22-Nov-2018 12:03:28 America/New_York] PHP Notice:  Undefined index: item in /home/ideanqna/demo.veubix.com/resturant/admin/insert_item.php on line 6
+[22-Nov-2018 12:03:28 America/New_York] PHP Notice:  Undefined index: image in /home/ideanqna/demo.veubix.com/resturant/admin/insert_item.php on line 9
+[22-Nov-2018 12:03:28 America/New_York] PHP Notice:  Undefined index: image in /home/ideanqna/demo.veubix.com/resturant/admin/insert_item.php on line 11
+[22-Nov-2018 12:03:28 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 12:03:28 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 12:03:28 America/New_York] PHP Fatal error:  require(): Failed opening required 'includes/db.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 12:03:32 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 12:03:32 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 12:03:32 America/New_York] PHP Fatal error:  require(): Failed opening required 'includes/db.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 12:03:40 America/New_York] PHP Notice:  Undefined index: user in /home/ideanqna/demo.veubix.com/resturant/admin/insert_order.php on line 5
+[22-Nov-2018 12:03:40 America/New_York] PHP Notice:  Undefined index: items in /home/ideanqna/demo.veubix.com/resturant/admin/insert_order.php on line 8
+[22-Nov-2018 12:03:40 America/New_York] PHP Notice:  Undefined index: qty in /home/ideanqna/demo.veubix.com/resturant/admin/insert_order.php on line 9
+[22-Nov-2018 12:03:40 America/New_York] PHP Notice:  Undefined variable: db_result in /home/ideanqna/demo.veubix.com/resturant/admin/insert_order.php on line 41
+[22-Nov-2018 12:03:45 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 12:03:45 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 12:03:45 America/New_York] PHP Fatal error:  require(): Failed opening required 'includes/db.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 12:04:29 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 12:04:29 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 12:04:29 America/New_York] PHP Fatal error:  require(): Failed opening required 'includes/db.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 12:08:41 America/New_York] PHP Notice:  Trying to get property of non-object in /home/ideanqna/demo.veubix.com/resturant/admin/includes/DB.php on line 183
+[22-Nov-2018 12:08:45 America/New_York] PHP Notice:  Trying to get property of non-object in /home/ideanqna/demo.veubix.com/resturant/admin/includes/DB.php on line 183
+[22-Nov-2018 12:08:47 America/New_York] PHP Notice:  Trying to get property of non-object in /home/ideanqna/demo.veubix.com/resturant/admin/includes/DB.php on line 183
+[22-Nov-2018 12:08:51 America/New_York] PHP Notice:  Trying to get property of non-object in /home/ideanqna/demo.veubix.com/resturant/admin/includes/DB.php on line 183
+[22-Nov-2018 12:08:55 America/New_York] PHP Notice:  Trying to get property of non-object in /home/ideanqna/demo.veubix.com/resturant/admin/includes/DB.php on line 183
+[22-Nov-2018 12:09:40 America/New_York] PHP Notice:  Trying to get property of non-object in /home/ideanqna/demo.veubix.com/resturant/admin/includes/DB.php on line 183
+[22-Nov-2018 12:10:37 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 12:10:37 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 12:10:37 America/New_York] PHP Fatal error:  require(): Failed opening required 'includes/db.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 12:12:43 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 12:12:43 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 12:12:43 America/New_York] PHP Fatal error:  require(): Failed opening required 'includes/db.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 12:12:54 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 12:12:54 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 12:12:54 America/New_York] PHP Fatal error:  require(): Failed opening required 'includes/db.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 12:13:00 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 12:13:00 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 12:13:00 America/New_York] PHP Fatal error:  require(): Failed opening required 'includes/db.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 12:26:18 America/New_York] PHP Notice:  Undefined index: email in /home/ideanqna/demo.veubix.com/resturant/admin/header.php on line 35
+[22-Nov-2018 12:26:45 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 12:26:45 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 12:26:45 America/New_York] PHP Fatal error:  require(): Failed opening required 'includes/db.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 12:27:10 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 12:27:10 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 12:27:10 America/New_York] PHP Fatal error:  require(): Failed opening required 'includes/db.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 12:28:53 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 12:28:53 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 12:28:53 America/New_York] PHP Fatal error:  require(): Failed opening required 'includes/db.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 13:59:34 America/New_York] PHP Notice:  Undefined index: email in /home/ideanqna/demo.veubix.com/resturant/admin/header.php on line 35
+[22-Nov-2018 13:59:34 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 13:59:34 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 13:59:34 America/New_York] PHP Fatal error:  require(): Failed opening required 'includes/db.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 13:59:42 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 13:59:42 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 13:59:42 America/New_York] PHP Fatal error:  require(): Failed opening required 'includes/db.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 14:03:24 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 14:03:24 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 14:03:24 America/New_York] PHP Fatal error:  require(): Failed opening required 'includes/db.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 14:04:16 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 14:04:16 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 14:04:16 America/New_York] PHP Fatal error:  require(): Failed opening required 'includes/db.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 14:04:24 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 14:04:24 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 14:04:24 America/New_York] PHP Fatal error:  require(): Failed opening required 'includes/db.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 14:04:39 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 14:04:39 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 14:04:39 America/New_York] PHP Fatal error:  require(): Failed opening required 'includes/db.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 14:04:41 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 14:04:41 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 14:04:41 America/New_York] PHP Fatal error:  require(): Failed opening required 'includes/db.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 14:21:01 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 14:21:01 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 14:21:01 America/New_York] PHP Fatal error:  require(): Failed opening required 'includes/db.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 14:21:02 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 14:21:02 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 14:21:02 America/New_York] PHP Fatal error:  require(): Failed opening required 'includes/db.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 14:41:45 America/New_York] PHP Notice:  Undefined index: email in /home/ideanqna/demo.veubix.com/resturant/admin/header.php on line 35
+[22-Nov-2018 15:23:01 America/New_York] PHP Notice:  Undefined index: email in /home/ideanqna/demo.veubix.com/resturant/admin/header.php on line 35
+[22-Nov-2018 15:23:13 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 15:23:13 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 15:23:13 America/New_York] PHP Fatal error:  require(): Failed opening required 'includes/db.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 15:23:16 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 15:23:16 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 15:23:16 America/New_York] PHP Fatal error:  require(): Failed opening required 'includes/db.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 4
+[22-Nov-2018 15:23:35 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 3
+[22-Nov-2018 15:23:35 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 3
+[22-Nov-2018 15:23:35 America/New_York] PHP Fatal error:  require(): Failed opening required 'includes/db.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 3
+[22-Nov-2018 15:23:37 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 3
+[22-Nov-2018 15:23:37 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 3
+[22-Nov-2018 15:23:37 America/New_York] PHP Fatal error:  require(): Failed opening required 'includes/db.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 3
+[22-Nov-2018 15:24:30 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 3
+[22-Nov-2018 15:24:30 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 3
+[22-Nov-2018 15:24:30 America/New_York] PHP Fatal error:  require(): Failed opening required 'includes/db.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 3
+[22-Nov-2018 15:24:32 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 3
+[22-Nov-2018 15:24:32 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 3
+[22-Nov-2018 15:24:32 America/New_York] PHP Fatal error:  require(): Failed opening required 'includes/db.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 3
+[22-Nov-2018 15:24:56 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 3
+[22-Nov-2018 15:24:56 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 3
+[22-Nov-2018 15:24:56 America/New_York] PHP Fatal error:  require(): Failed opening required 'includes/db.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 3
+[22-Nov-2018 15:25:33 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 3
+[22-Nov-2018 15:25:33 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 3
+[22-Nov-2018 15:25:33 America/New_York] PHP Fatal error:  require(): Failed opening required 'includes/db.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 3
+[22-Nov-2018 15:26:12 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 3
+[22-Nov-2018 15:26:12 America/New_York] PHP Warning:  require(includes/db.php): failed to open stream: No such file or directory in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 3
+[22-Nov-2018 15:26:12 America/New_York] PHP Fatal error:  require(): Failed opening required 'includes/db.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/ideanqna/demo.veubix.com/resturant/admin/manage_item.php on line 3
+[22-Nov-2018 15:28:16 America/New_York] PHP Notice:  Undefined variable: id in /home/ideanqna/demo.veubix.com/resturant/admin/add_item.php on line 9
+[22-Nov-2018 16:03:07 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 39
+[22-Nov-2018 16:03:07 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 39
+[22-Nov-2018 16:03:07 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 39
+[22-Nov-2018 16:03:07 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 39
+[22-Nov-2018 16:03:07 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 39
+[22-Nov-2018 16:03:07 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 39
+[22-Nov-2018 16:03:07 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 39
+[22-Nov-2018 16:03:07 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 39
+[22-Nov-2018 16:03:07 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 39
+[22-Nov-2018 16:03:07 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 39
+[22-Nov-2018 16:03:07 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 39
+[22-Nov-2018 16:03:07 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 39
+[22-Nov-2018 16:03:10 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 39
+[22-Nov-2018 16:03:10 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 39
+[22-Nov-2018 16:03:10 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 39
+[22-Nov-2018 16:03:10 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 39
+[22-Nov-2018 16:03:10 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 39
+[22-Nov-2018 16:03:10 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 39
+[22-Nov-2018 16:03:10 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 39
+[22-Nov-2018 16:03:10 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 39
+[22-Nov-2018 16:03:10 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 39
+[22-Nov-2018 16:03:10 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 39
+[22-Nov-2018 16:03:10 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 39
+[22-Nov-2018 16:03:10 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 39
+[22-Nov-2018 16:04:08 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 39
+[22-Nov-2018 16:04:08 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 39
+[22-Nov-2018 16:04:08 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 39
+[22-Nov-2018 16:04:08 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 39
+[22-Nov-2018 16:04:08 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 39
+[22-Nov-2018 16:04:08 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 39
+[22-Nov-2018 16:04:08 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 39
+[22-Nov-2018 16:04:08 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 39
+[22-Nov-2018 16:04:08 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 39
+[22-Nov-2018 16:04:08 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 39
+[22-Nov-2018 16:04:08 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 39
+[22-Nov-2018 16:04:08 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 39
+[22-Nov-2018 16:04:11 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 39
+[22-Nov-2018 16:04:11 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 39
+[22-Nov-2018 16:04:11 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 39
+[22-Nov-2018 16:04:11 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 39
+[22-Nov-2018 16:04:11 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 39
+[22-Nov-2018 16:04:11 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 39
+[22-Nov-2018 16:04:11 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 39
+[22-Nov-2018 16:04:11 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 39
+[22-Nov-2018 16:04:11 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 39
+[22-Nov-2018 16:04:11 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 39
+[22-Nov-2018 16:04:11 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 39
+[22-Nov-2018 16:04:11 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 39
+[22-Nov-2018 16:04:27 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 39
+[22-Nov-2018 16:04:27 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 39
+[22-Nov-2018 16:04:27 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 39
+[22-Nov-2018 16:04:27 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 39
+[22-Nov-2018 16:04:27 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 39
+[22-Nov-2018 16:04:27 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 39
+[22-Nov-2018 16:04:27 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 39
+[22-Nov-2018 16:04:27 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 39
+[22-Nov-2018 16:04:27 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 39
+[22-Nov-2018 16:04:27 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 39
+[22-Nov-2018 16:04:27 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 39
+[22-Nov-2018 16:04:27 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 39
+[22-Nov-2018 16:04:32 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 39
+[22-Nov-2018 16:04:32 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 39
+[22-Nov-2018 16:04:32 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 39
+[22-Nov-2018 16:04:32 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 39
+[22-Nov-2018 16:04:32 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 39
+[22-Nov-2018 16:04:32 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 39
+[22-Nov-2018 16:04:32 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 39
+[22-Nov-2018 16:04:32 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 39
+[22-Nov-2018 16:04:32 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 39
+[22-Nov-2018 16:04:32 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 39
+[22-Nov-2018 16:04:32 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 39
+[22-Nov-2018 16:04:32 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 39
+[22-Nov-2018 16:05:15 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 39
+[22-Nov-2018 16:05:15 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 39
+[22-Nov-2018 16:05:15 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 39
+[22-Nov-2018 16:05:15 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 39
+[22-Nov-2018 16:05:15 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 39
+[22-Nov-2018 16:05:15 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 39
+[22-Nov-2018 16:05:15 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 39
+[22-Nov-2018 16:05:15 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 39
+[22-Nov-2018 16:05:15 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 39
+[22-Nov-2018 16:05:15 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 39
+[22-Nov-2018 16:05:15 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 39
+[22-Nov-2018 16:05:15 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 39
+[22-Nov-2018 16:05:16 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 39
+[22-Nov-2018 16:05:16 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 39
+[22-Nov-2018 16:05:16 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 39
+[22-Nov-2018 16:05:16 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 39
+[22-Nov-2018 16:05:16 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 39
+[22-Nov-2018 16:05:16 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 39
+[22-Nov-2018 16:05:16 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 39
+[22-Nov-2018 16:05:16 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 39
+[22-Nov-2018 16:05:16 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 39
+[22-Nov-2018 16:05:16 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 39
+[22-Nov-2018 16:05:16 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 39
+[22-Nov-2018 16:05:16 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 39
+[22-Nov-2018 16:06:28 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 40
+[22-Nov-2018 16:06:28 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 40
+[22-Nov-2018 16:06:28 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 40
+[22-Nov-2018 16:06:28 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 40
+[22-Nov-2018 16:06:28 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 40
+[22-Nov-2018 16:06:28 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 40
+[22-Nov-2018 16:06:28 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 40
+[22-Nov-2018 16:06:28 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 40
+[22-Nov-2018 16:06:28 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 40
+[22-Nov-2018 16:06:28 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 40
+[22-Nov-2018 16:06:28 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 40
+[22-Nov-2018 16:06:28 America/New_York] PHP Notice:  Undefined index: item_id in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 40
+[22-Nov-2018 16:07:28 America/New_York] PHP Parse error:  syntax error, unexpected ''; ?>>' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 41
+[22-Nov-2018 16:07:30 America/New_York] PHP Parse error:  syntax error, unexpected ''; ?>>' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 41
+[22-Nov-2018 16:07:42 America/New_York] PHP Parse error:  syntax error, unexpected ''; ?>>' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 41
+[22-Nov-2018 16:07:44 America/New_York] PHP Parse error:  syntax error, unexpected ''; ?>>' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/ideanqna/demo.veubix.com/resturant/admin/edit_order.php on line 41
+[22-Nov-2018 16:42:14 America/New_York] PHP Notice:  Trying to get property of non-object in /home/ideanqna/demo.veubix.com/resturant/admin/includes/DB.php on line 184
+[22-Nov-2018 16:42:18 America/New_York] PHP Notice:  Trying to get property of non-object in /home/ideanqna/demo.veubix.com/resturant/admin/includes/DB.php on line 184
+[22-Nov-2018 16:42:24 America/New_York] PHP Notice:  Trying to get property of non-object in /home/ideanqna/demo.veubix.com/resturant/admin/includes/DB.php on line 184
+[22-Nov-2018 16:42:31 America/New_York] PHP Notice:  Trying to get property of non-object in /home/ideanqna/demo.veubix.com/resturant/admin/includes/DB.php on line 184
+[22-Nov-2018 16:42:33 America/New_York] PHP Notice:  Trying to get property of non-object in /home/ideanqna/demo.veubix.com/resturant/admin/includes/DB.php on line 184
+[22-Nov-2018 16:42:36 America/New_York] PHP Notice:  Trying to get property of non-object in /home/ideanqna/demo.veubix.com/resturant/admin/includes/DB.php on line 184
+[22-Nov-2018 16:42:38 America/New_York] PHP Notice:  Trying to get property of non-object in /home/ideanqna/demo.veubix.com/resturant/admin/includes/DB.php on line 184
+[22-Nov-2018 16:42:39 America/New_York] PHP Notice:  Trying to get property of non-object in /home/ideanqna/demo.veubix.com/resturant/admin/includes/DB.php on line 184

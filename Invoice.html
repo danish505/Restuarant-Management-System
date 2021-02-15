@@ -1,0 +1,474 @@
+<!doctype html>
+<html lang="en-us">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Restaurant Automation System</title>
+<!-- Google Font -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,600" rel="stylesheet">
+<!-- Favicon -->
+<!-- Stylesheet -->
+<link rel="stylesheet" href="css/main.min.css">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body class="o-page">
+<!--[if lte IE 9]>
+<p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
+<![endif]-->
+
+<div class="o-page__sidebar js-page-sidebar">
+<div class="c-sidebar">
+<a class="c-sidebar__brand" href="#">
+ADMIN
+</a>
+
+<h4 class="c-sidebar__title">Dashboards</h4>
+<ul class="c-sidebar__list">
+
+<li class="c-sidebar__item">
+<a class="c-sidebar__link " href="admin-panel.html">
+<i class="fa fa-line-chart u-mr-xsmall"></i>Overview
+</a>
+</li>
+
+<li class="c-sidebar__item">
+<a class="c-sidebar__link is-active" href="invoice.html">
+<i class="fa fa-list-alt u-mr-xsmall"></i>Invoice 
+</a>
+</li>
+
+<li class="c-sidebar__item">
+<a class="c-sidebar__link" href="add-menu.html">
+<i class="fa fa-file-text-o u-mr-xsmall"></i>Add Menu 
+</a>
+</li>
+
+<li class="c-sidebar__item">
+    <a class="c-sidebar__link" href="add-menu-in-bill-admin.html">
+        <i class="fa fa-file-text-o u-mr-xsmall"></i>Add Menu In Invoice
+    </a>
+</li>
+
+</ul>
+
+
+
+
+</div><!-- // .c-sidebar -->
+</div><!-- // .o-page__sidebar -->
+
+<main class="o-page__content">
+<header class="c-navbar u-mb-medium">
+<button class="c-sidebar-toggle u-mr-small">
+<span class="c-sidebar-toggle__bar"></span>
+<span class="c-sidebar-toggle__bar"></span>
+<span class="c-sidebar-toggle__bar"></span>
+</button><!-- // .c-sidebar-toggle -->
+
+<h2 class="c-navbar__title u-mr-auto">INVOICE</h2>
+
+
+
+
+<div class="c-dropdown dropdown">
+<a  class="c-avatar c-avatar--xsmall has-dropdown dropdown-toggle" href="#" id="dropdwonMenuAvatar" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+<img class="c-avatar__img" src="img/profile-img.png" alt="User's Profile Picture">
+</a>
+
+<div class="c-dropdown__menu dropdown-menu dropdown-menu-right" aria-labelledby="dropdwonMenuAvatar">
+<a class="c-dropdown__item dropdown-item" href="#">Logout</a>
+</div>
+</div>
+</header>
+
+<span class="c-divider has-text u-mt-medium u-mb-medium">Table 5</span>
+
+<section class="invoice-section">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="cart-heading">
+                    <h5>Customer Name: john</h5>
+                    
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="cart-table c-table-responsive@tablet">
+                    <table class="c-table">
+                        <thead class="c-table__head">
+                            <tr class="c-table__row">
+                                <th class="c-table__cell c-table__cell--head">ITEM NAME</th>
+                                <th class="c-table__cell c-table__cell--head">QUANTITY</th>
+                                <th class="c-table__cell c-table__cell--head">PRICE</th>
+                                <th class="c-table__cell c-table__cell--head">ACTION</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr class="c-table__row">
+                                
+                                <td class="c-table__cell">
+                                    <div class="item-name">
+                                        <h5>PEPPERONI PIZZA</h5>
+                                    </div>
+                                </td>
+                                <td class="c-table__cell">
+                                    <div class="c-field">
+                                        <input class="c-input" id="input1" type="number" min="0" placeholder="QTY">
+                                    </div>
+                                </td>
+                                <td class="c-table__cell">
+                                    <div class="item-price">
+                                        <h6><span>Rs.</span> 1000</h6>
+                                    </div>
+                                </td>
+                                <td class="c-table__cell">
+                                    <div class="action-btn">
+                                        <a class="c-btn c-btn--info u-text-xsmall" href="#">UPDATE</a>
+                                    </div>
+                                    <div class="action-btn">
+                                        <a class="c-btn c-btn--danger u-text-xsmall" href="#">DELETE</a>
+                                    </div>
+                                </td>
+
+                            </tr>
+                            <tr class="c-table__row">
+                                
+                                <td class="c-table__cell">
+                                    <div class="item-name">
+                                        <h5>V PIZZA</h5>
+                                    </div>
+                                </td>
+                                <td class="c-table__cell">
+                                    <div class="c-field">
+                                        <input class="c-input" id="input1" type="number" min="0" placeholder="QTY">
+                                    </div>
+                                </td>
+                                <td class="c-table__cell">
+                                    <div class="item-price">
+                                        <h6><span>Rs.</span> 800</h6>
+                                    </div>
+                                </td>
+                                <td class="c-table__cell">
+                                    <div class="action-btn">
+                                        <a class="c-btn c-btn--info u-text-xsmall" href="#">UPDATE</a>
+                                    </div>
+                                    <div class="action-btn">
+                                        <a class="c-btn c-btn--danger u-text-xsmall" href="#">DELETE</a>
+                                    </div>
+                                </td>
+
+                            </tr>
+                            <tr class="c-table__row">
+                                <td class="c-table__cell">
+                                    <div class="item-name">
+                                        <h5>SUMMER PIZZA</h5>
+                                    </div>
+                                </td>
+                                <td class="c-table__cell">
+                                    <div class="c-field">
+                                        <input class="c-input" id="input1" type="number" min="0" placeholder="QTY">
+                                    </div>
+                                </td>
+                                <td class="c-table__cell">
+                                    <div class="item-price">
+                                        <h6><span>Rs.</span> 650</h6>
+                                    </div>
+                                </td>
+                                <td class="c-table__cell">
+                                    <div class="action-btn">
+                                        <a class="c-btn c-alert--info u-text-xsmall" href="#">UPDATE</a>
+                                    </div>
+                                    <div class="action-btn">
+                                        <a class="c-btn c-btn--danger u-text-xsmall" href="#">DELETE</a>
+                                    </div>
+                                </td>
+
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+        <div class="row action-row">
+            <div class="col-md-9">
+                <div class="total-price">
+                    <h6>TOTAL: <span> <label for="">Rs.</label> 2450</span></h6>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="btn-order">
+                        <a class="c-btn c-btn--success u-width-100" href="#">GENERATE INVOICE</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+    <span class="c-divider has-text u-mt-medium u-mb-medium">Table 1</span>
+
+    <section class="invoice-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="cart-heading">
+                        <h5>Customer Name: Smith</h5>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="cart-table c-table-responsive@tablet">
+                        <table class="c-table">
+                            <thead class="c-table__head">
+                                <tr class="c-table__row">
+                                    <th class="c-table__cell c-table__cell--head">ITEM NAME</th>
+                                    <th class="c-table__cell c-table__cell--head">QUANTITY</th>
+                                    <th class="c-table__cell c-table__cell--head">PRICE</th>
+                                    <th class="c-table__cell c-table__cell--head">ACTION</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr class="c-table__row">
+                                    
+                                    <td class="c-table__cell">
+                                        <div class="item-name">
+                                            <h5>PEPPERONI PIZZA</h5>
+                                        </div>
+                                    </td>
+                                    <td class="c-table__cell">
+                                        <div class="c-field">
+                                                <h6>1</h6>
+                                        </div>
+                                    </td>
+                                    <td class="c-table__cell">
+                                        <div class="item-price">
+                                            <h6><span>Rs.</span> 1000</h6>
+                                        </div>
+                                    </td>
+                                    <td class="c-table__cell">
+                                        <div class="action-btn">
+                                            <a class="c-btn c-btn--info u-text-xsmall" href="#">UPDATE</a>
+                                        </div>
+                                        <div class="action-btn">
+                                            <a class="c-btn c-btn--danger u-text-xsmall" href="#">DELETE</a>
+                                        </div>
+                                    </td>
+
+                                </tr>
+                                <tr class="c-table__row">
+                                    
+                                    <td class="c-table__cell">
+                                        <div class="item-name">
+                                            <h5>V PIZZA</h5>
+                                        </div>
+                                    </td>
+                                    <td class="c-table__cell">
+                                        <div class="c-field">
+                                                <h6>1</h6>
+                                        </div>
+                                    </td>
+                                    <td class="c-table__cell">
+                                        <div class="item-price">
+                                            <h6><span>Rs.</span> 800</h6>
+                                        </div>
+                                    </td>
+                                    <td class="c-table__cell">
+                                        <div class="action-btn">
+                                            <a class="c-btn c-btn--info u-text-xsmall" href="#">UPDATE</a>
+                                        </div>
+                                        <div class="action-btn">
+                                            <a class="c-btn c-btn--danger u-text-xsmall" href="#">DELETE</a>
+                                        </div>
+                                    </td>
+
+                                </tr>
+                                <tr class="c-table__row">
+                                    <td class="c-table__cell">
+                                        <div class="item-name">
+                                            <h5>SUMMER PIZZA</h5>
+                                        </div>
+                                    </td>
+                                    <td class="c-table__cell">
+                                        <div class="c-field">
+                                                <h6>1</h6>
+                                        </div>
+                                    </td>
+                                    <td class="c-table__cell">
+                                        <div class="item-price">
+                                            <h6><span>Rs.</span> 650</h6>
+                                        </div>
+                                    </td>
+                                    <td class="c-table__cell">
+                                        <div class="action-btn">
+                                            <a class="c-btn c-alert--info u-text-xsmall" href="#">UPDATE</a>
+                                        </div>
+                                        <div class="action-btn">
+                                            <a class="c-btn c-btn--danger u-text-xsmall" href="#">DELETE</a>
+                                        </div>
+                                    </td>
+
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+            <div class="row action-row">
+                <div class="col-md-9">
+                    <div class="total-price">
+                        <h6>TOTAL: <span> <label for="">Rs.</label> 2450</span></h6>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="btn-order">
+                            <a class="c-btn c-btn--success u-width-100" href="#">GENERATE INVOICE</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+        
+    <span class="c-divider has-text u-mt-medium u-mb-medium">Table 3</span>
+
+    <section class="invoice-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="cart-heading">
+                        <h5>Customer Name: Alex</h5>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="cart-table c-table-responsive@tablet">
+                        <table class="c-table">
+                            <thead class="c-table__head">
+                                <tr class="c-table__row">
+                                    <th class="c-table__cell c-table__cell--head">ITEM NAME</th>
+                                    <th class="c-table__cell c-table__cell--head">QUANTITY</th>
+                                    <th class="c-table__cell c-table__cell--head">PRICE</th>
+                                    <th class="c-table__cell c-table__cell--head">ACTION</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr class="c-table__row">
+                                    
+                                    <td class="c-table__cell">
+                                        <div class="item-name">
+                                            <h5>PEPPERONI PIZZA</h5>
+                                        </div>
+                                    </td>
+                                    <td class="c-table__cell">
+                                        <div class="c-field">
+                                                <h6>1</h6>
+                                        </div>
+                                    </td>
+                                    <td class="c-table__cell">
+                                        <div class="item-price">
+                                            <h6><span>Rs.</span> 1000</h6>
+                                        </div>
+                                    </td>
+                                    <td class="c-table__cell">
+                                        <div class="action-btn">
+                                            <a class="c-btn c-btn--info u-text-xsmall" href="#">UPDATE</a>
+                                        </div>
+                                        <div class="action-btn">
+                                            <a class="c-btn c-btn--danger u-text-xsmall" href="#">DELETE</a>
+                                        </div>
+                                    </td>
+
+                                </tr>
+                                <tr class="c-table__row">
+                                    
+                                    <td class="c-table__cell">
+                                        <div class="item-name">
+                                            <h5>V PIZZA</h5>
+                                        </div>
+                                    </td>
+                                    <td class="c-table__cell">
+                                        <div class="c-field">
+                                                <h6>1</h6>
+                                        </div>
+                                    </td>
+                                    <td class="c-table__cell">
+                                        <div class="item-price">
+                                            <h6><span>Rs.</span> 800</h6>
+                                        </div>
+                                    </td>
+                                    <td class="c-table__cell">
+                                        <div class="action-btn">
+                                            <a class="c-btn c-btn--info u-text-xsmall" href="#">UPDATE</a>
+                                        </div>
+                                        <div class="action-btn">
+                                            <a class="c-btn c-btn--danger u-text-xsmall" href="#">DELETE</a>
+                                        </div>
+                                    </td>
+
+                                </tr>
+                                <tr class="c-table__row">
+                                    <td class="c-table__cell">
+                                        <div class="item-name">
+                                            <h5>SUMMER PIZZA</h5>
+                                        </div>
+                                    </td>
+                                    <td class="c-table__cell">
+                                        <div class="c-field">
+                                                <h6>1</h6>
+                                        </div>
+                                    </td>
+                                    <td class="c-table__cell">
+                                        <div class="item-price">
+                                            <h6><span>Rs.</span> 650</h6>
+                                        </div>
+                                    </td>
+                                    <td class="c-table__cell">
+                                        <div class="action-btn">
+                                            <a class="c-btn c-alert--info u-text-xsmall" href="#">UPDATE</a>
+                                        </div>
+                                        <div class="action-btn">
+                                            <a class="c-btn c-btn--danger u-text-xsmall" href="#">DELETE</a>
+                                        </div>
+                                    </td>
+
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+            <div class="row action-row">
+                <div class="col-md-9">
+                    <div class="total-price">
+                        <h6>TOTAL: <span> <label for="">Rs.</label> 2450</span></h6>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="btn-order">
+                            <a class="c-btn c-btn--success u-width-100" href="#">GENERATE INVOICE</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+
+<div class="row">
+
+</div><!-- // .row -->
+
+
+
+</div><!-- // .container -->
+
+</main><!-- // .o-page__content -->
+
+<script src="js/main.min.js"></script>
+</body>
+</html>

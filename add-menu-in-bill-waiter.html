@@ -1,0 +1,143 @@
+<!doctype html>
+<html lang="en-us">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Restaurant Automation System</title>
+        <!-- Google Font -->
+        <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,600" rel="stylesheet">
+        <!-- Favicon -->
+        <!-- Stylesheet -->
+        <link rel="stylesheet" href="css/main.min.css">
+        <link rel="stylesheet" href="css/style.css">
+    </head>
+    <body class="o-page">
+        <!--[if lte IE 9]>
+            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
+        <![endif]-->
+
+        <div class="o-page__sidebar js-page-sidebar">
+            <div class="c-sidebar">
+                <a class="c-sidebar__brand" href="#">
+                WAITER
+                </a>
+                
+                <h4 class="c-sidebar__title">Dashboards</h4>
+                <ul class="c-sidebar__list">
+
+                 
+
+                  
+                        <li class="c-sidebar__item">
+                                <a class="c-sidebar__link" href="invoice-waiter.html">
+                                    <i class="fa fa-list-alt u-mr-xsmall"></i>Invoice
+                                </a>
+                            </li>
+                                
+                            <li class="c-sidebar__item">
+                                <a class="c-sidebar__link " href="add-menu-waiter.html">
+                                    <i class="fa fa-file-text-o u-mr-xsmall"></i>Add Menu 
+                                </a>
+                            </li>
+        
+                            <li class="c-sidebar__item">
+                                <a class="c-sidebar__link is-active" href="add-menu-in-bill-waiter.html">
+                                    <i class="fa fa-file-text-o u-mr-xsmall"></i>Add Menu In Invoice
+                                </a>
+                            </li>
+                         
+                </ul>
+
+               
+
+              
+            </div><!-- // .c-sidebar -->
+        </div><!-- // .o-page__sidebar -->
+
+        <main class="o-page__content">
+            <header class="c-navbar u-mb-medium">
+                <button class="c-sidebar-toggle u-mr-small">
+                    <span class="c-sidebar-toggle__bar"></span>
+                    <span class="c-sidebar-toggle__bar"></span>
+                    <span class="c-sidebar-toggle__bar"></span>
+                </button><!-- // .c-sidebar-toggle -->
+
+                <h2 class="c-navbar__title u-mr-auto">ADD MENU IN INVOICE</h2>
+      
+
+               
+
+                <div class="c-dropdown dropdown">
+                    <a  class="c-avatar c-avatar--xsmall has-dropdown dropdown-toggle" href="#" id="dropdwonMenuAvatar" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        <img class="c-avatar__img" src="img/profile-img.png" alt="User's Profile Picture">
+                    </a>
+
+                    <div class="c-dropdown__menu dropdown-menu dropdown-menu-right" aria-labelledby="dropdwonMenuAvatar">
+                        <a class="c-dropdown__item dropdown-item" href="#">Logout</a>
+                    </div>
+                </div>
+            </header>
+
+            <div class="container-fluid">
+                <div class="row">
+                    
+                    <div class="col-md-6">
+                        <form action="">
+                            <div class="c-field u-mb-medium">
+                                <label class="c-field__label" for="select1">Select Table</label>
+                            
+                                <!-- Select2 jquery plugin is used -->
+                                <select class="c-select has-search" id="select1">
+                                    <option>Table 1</option>
+                                    <option>Table 2</option>
+                                    <option>Table 3</option>
+                                    <option>Table 4</option>
+                                    <option>Table 5</option>
+                                </select>
+                            </div>
+                            <div class="c-field u-mb-medium">
+                                <label class="c-field__label" for="select2">Item Name</label>
+                            
+                                <!-- Select2 jquery plugin is used -->
+                                <select class="c-select has-search" id="select2">
+                                    <option>PEPPERONI PIZZA</option>
+                                    <option>V PIZZA</option>
+                                    <option>SUMMER PIZZA</option>
+                                    <option>APRICOT CHICKEN</option>
+                                    <option>BLUEBERRY SHAKE</option>
+                                    <option>COLA DRINK</option>
+                                    <option>LIME DRINK</option>
+                                    <option>ICED TEA</option>
+                                    <option>CHEESE BURGER</option>
+                                    <option>CHICKEN BURGER</option>
+                                    <option>COUNTRY BURGER</option>
+                                    <option>ORIGINAL BURGER</option>
+                                </select>
+                            </div>
+                           
+                            <div class="c-field  u-mt-small">
+                                <label class="c-field__label" for="input1">Quantity</label>
+                                <input class="c-input" id="input1" type="text" placeholder="Placeholder">
+                            </div>
+                            <button class="c-btn c-btn--success u-mt-small">SUBMIT</button>
+                        </form>
+                    </div>
+                  
+                </div>
+
+               
+
+                <div class="row">
+                   
+                </div><!-- // .row -->
+
+     
+
+            </div><!-- // .container -->
+            
+        </main><!-- // .o-page__content -->
+        
+        <script src="js/main.min.js"></script>
+    </body>
+</html>
